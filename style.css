@@ -1,0 +1,29 @@
+.main-container {
+  text-align: center;
+}
+
+.wrong {
+  color: red;
+}
+
+.correct {
+  color: green;
+}
+
+.highlight {
+  background: #eeeeee;
+}
+
+.text-container {
+  text-align: left;
+  font-size: 36px;
+  padding: 26px 20%;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+.super-input {
+  font-size: 44px;
+  border: none;
+  outline: none;
+  text-align: center;
+}
